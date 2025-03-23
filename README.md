@@ -6,7 +6,7 @@ If you get your own custom id, this allows you to log into your own account, onl
 
 # Screenshot
 
-https://i.imgur.com/oAoTefW.png
+![image](https://i.imgur.com/oAoTefW.png)
 
 
 # FIRST RELEASE KINDA'VE BUGGY!
